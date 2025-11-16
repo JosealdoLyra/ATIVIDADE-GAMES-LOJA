@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Aleatório Game",
+      "descricao": "Jogo de Dados",
+      "foto": "jogo1.PNG",
+      "preco": 150
+    },
+    {
+      "id": "2",
+      "produto": "Super Mario",
+      "descricao": "Jogo de Aventura",
+      "foto": "jogo2.PNG",
+      "preco": 180
+    },
+    {
+      "id": "3",
+      "produto": "War",
+      "descricao": "Jogo de Estratégia ",
+      "foto": "jogo3.PNG",
+      "preco": 285
+    },
+    {
+      "id": "4",
+      "produto": "Jogo Modificado",
+      "descricao": "Descrição do Jogo Modificado",
+      "foto": "jogo4.PNG",
+      "preco": 400
+    },
+    {
+      "id": 0,
+      "produto": "Jogo sem nome",
+      "descricao": "teste de API",
+      "foto": "sem foto.png",
+      "preco": 50
+    }
+  ]
+}
